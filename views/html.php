@@ -21,14 +21,23 @@ $menu = getMenu();
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
         <title>Summa Frontend Evaluation</title>
+
         <link rel="stylesheet" type="text/css" href="./skin/css/cssreset-min.css" media="all">
+
         <link rel="stylesheet" type="text/css" href="./skin/css/cssbase-min.css" media="all">
+
         <link rel="stylesheet" type="text/css" href="./skin/css/cssfonts-min.css" media="all">
+
         <link rel="stylesheet" type="text/css" href="./skin/css/summabase.css" media="all">
+
         <link rel="stylesheet" type="text/css" href="./skin/css/summatest.css" media="all">
+
         <script type="text/javascript" src="./skin/js/jquery-1.11.2.min.js"></script>
+
         <script type="text/javascript" src="./skin/js/jquery-migrate-1.2.1.min.js"></script>
+
         <script type="text/javascript" src="./skin/js/summatest.js"></script>
     </head>
 
