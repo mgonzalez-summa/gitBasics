@@ -40,9 +40,7 @@ $menu = getMenu();
                         <div class="logo-wrapper">
                             <img src="./skin/images/logo.png" class="logo" />
                         </div>
-                        <div class="nav">
-                            <!-- The menu should be here -->
-                        </div>
+                        <div class="nav"> </div>
                     </div>
                 </div>
                 <div class="main">
@@ -63,7 +61,7 @@ $menu = getMenu();
                         <div class="boxes-block">
                             <div class="box">
                                 <h2 class="title">What we do <a href="javascript:void(0);" class="link">Read more about our services  »</a></h2>
-                                <div class="box-list"><!-- he what-we-do boxes should be here --></div>
+                                <div class="box-list"> </div>
                             </div>
                         </div>
                     </div>
