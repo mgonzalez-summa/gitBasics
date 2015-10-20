@@ -1,0 +1,35 @@
+.main .main-container .boxes-block .box-list ul {
+	display:inline-block;
+	list-style:none;
+	padding:0;
+	margin:0;
+	width:100%;
+
+	li {
+		width:151px;
+		margin-right:5px;
+		padding:18px;
+		float:left;
+		border-top-style: solid;
+	    border-top-width: 11px;
+	    border-bottom-style: solid;
+	    border-bottom-width: 1px;
+	    border-bottom-color:#A0A0A0;
+	    text-align:left;
+	    background-color:rgba(241,241,241,1);
+	    min-height:267px;
+	    cursor:pointer;
+
+	    h1 {
+	    	font-size: 13pt;
+	    	font-style: italic;
+    		font-family: georgia, serif;
+	    }
+
+	    p {
+	    	font-size: 10pt;
+	    	color:#7B7B7B;
+	    	line-height: 20px;
+	    }
+	}
+}
