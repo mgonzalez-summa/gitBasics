@@ -1,6 +1,6 @@
 <?php
 
-//$get = $_GET;
+$get = $_GET;
 
 if (isset($get['getBoxes']) && $get['getBoxes'] == 'what-we-do') {
     $boxes = array(
