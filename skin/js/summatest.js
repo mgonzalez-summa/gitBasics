@@ -7,8 +7,8 @@ $(window).load(function(){
 
 function showLinkContent(){
 	$.ajax({
-		type:"GET",
-		url:"resources/data.php?getBoxes=what-we-do",
+		//type:"GET",
+		//url:"resources/data.php?getBoxes=what-we-do",
 		success:function(result){
 			var r = JSON.parse(result);
 			if(r.length >0) {

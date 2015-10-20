@@ -48,9 +48,6 @@ $menu = getMenu();
                         <div class="slider-container">
                             <ul class="list">
                                 <li class="item">
-                                    <a href="javascript:void(0);"><img typeof="foaf:Image" src="./skin/images/sl2.png" alt=""></a>
-                                </li>
-                                <li class="item">
                                     <a href="javascript:void(0);"><img typeof="foaf:Image" src="./skin/images/sl3.png" alt=""></a>
                                 </li>
                             </ul>
