@@ -43,6 +43,7 @@ $menu = getMenu();
                         <div class="nav"> </div>
                     </div>
                 </div>
+
                 <div class="main">
                     <div class="top-container">
                         <div class="slider-container">
@@ -79,3 +80,4 @@ $menu = getMenu();
         </div>
     </body>
 </html>
+
